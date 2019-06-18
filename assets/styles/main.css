@@ -1,0 +1,12 @@
+body {
+  background-image: url(https://i.imgur.com/FJmi7.png);
+  background-size: cover;
+}
+#random-quote {
+  font-size: 50px;
+  font-family: monospace;
+  font-weight: bolder;
+  color: purple;
+  margin-top: 11%;
+  text-align: center;
+}
